@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="chinese">Chinese</string>
+    <string name="food_logo">food logo</string>
+    <string name="name">Name</string>
+    <string name="add_food">ADD FOOD</string>
+</resources>
